@@ -105,7 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "행복한 컴퓨터교육 설계자"
   location         : "대한민국, 서울"
-  email            : "21-20512@hafs.hs.kr
+  email            : "21-20512@hafs.hs.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
